@@ -1,0 +1,20 @@
+{
+  "name": "cayu/lib-sign",
+  "description": "对接java",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "qjy",
+      "email": "1079961399@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "cayu\\libsign\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.2.5"
+  }
+}
