@@ -1,6 +1,6 @@
 {
   "name": "cayu/lib-sign",
-  "description": "对接java",
+  "description": "签名算法库",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
